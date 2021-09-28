@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config><base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://api.exchangeratesapi.io/v1/latest?access_key=868713694efeb65df90a8185b54fd2be</domain>
+    </domain-config>
+</network-security-config>
